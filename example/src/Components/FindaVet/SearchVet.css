@@ -1,0 +1,9 @@
+
+.search-container{
+ 
+    display: flex; 
+}
+.champ{
+    height: 50px;
+    width: 80%;
+}

@@ -1,0 +1,60 @@
+/***********home.css*********/
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.logos  {
+    text-align: center;
+}
+.fixbouton {
+    text-align: center;
+    border: none;
+    color: #fff;
+    font-size: 25px;
+    padding: 12px 36px;
+    margin-top: 20px;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    width: 100%;
+}
+/* .cadre{
+
+    border: 2px solid skyblue;
+    padding: 20px;
+    margin :10 10 10 40px;
+    background:url("../../couverture.jpg");
+    width: 100%;
+    background-size: contain;
+
+} */
+.creer{
+    border-radius: 20px;
+    background-color: #cec950;
+    font-size: 2rem;
+    margin-top: 15px;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s;
+    width: 100%;
+}
+.creer:hover{
+     letter-spacing: 2px;
+}
+.connextion{
+    border-radius: 20px;
+    background-color: #cec950;
+    font-size: 2rem;
+    margin-top: 15px;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s;
+    width: 100%;
+  }
+  .connextion:hover {
+    letter-spacing: 2px;
+  }
+  .error::placeholder {
+    color: #ff4d4d;
+  }
